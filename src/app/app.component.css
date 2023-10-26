@@ -1,0 +1,25 @@
+body {
+  background: rgba(240, 240, 240, 1)
+}
+section {
+  margin: 0 auto;
+  display: flex;
+}
+dl {
+  line-height: 1.7rem;
+}
+dd {
+  font-weight: bold;
+}
+button {
+  width: 100%;
+  background: transparent;
+  border-radius: 0.5rem;
+  padding: 0.5rem 2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.status {
+  display: inline-block;
+  margin: 0 auto;
+}
